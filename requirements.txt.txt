@@ -1,8 +1,0 @@
-streamlit
-yfinance
-plotly
-pandas
-scikit-learn
-requests
-numpy
-certifi
